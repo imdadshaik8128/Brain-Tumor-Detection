@@ -1,0 +1,18 @@
+com/example/braintumor/splash.java
+ com.example.braintumor.splash
+ com.example.braintumor.splash$1
+com/example/braintumor/ml/Brainmodel.java
+ com.example.braintumor.ml.Brainmodel
+ com.example.braintumor.ml.Brainmodel$1
+ com.example.braintumor.ml.Brainmodel$Outputs
+com/example/braintumor/MainActivity2.java
+ com.example.braintumor.MainActivity2
+ com.example.braintumor.MainActivity2$1
+com/example/braintumor/MainActivity.java
+ com.example.braintumor.MainActivity
+ com.example.braintumor.MainActivity$1
+ com.example.braintumor.MainActivity$2
+com/example/braintumor/BuildConfig.java
+ com.example.braintumor.BuildConfig
+com/example/braintumor/MainActivity3.java
+ com.example.braintumor.MainActivity3
